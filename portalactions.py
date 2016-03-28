@@ -148,8 +148,8 @@ def stain():
 	print "|      |      |      |      |"
 	print "|______|______|______|______|"
 	print "              |      |"
-	print "			     |      |"
-	print "			     |______|"
+	print "		     |      |"
+	print "		     |______|"
 	print "\n"
 	
 	
